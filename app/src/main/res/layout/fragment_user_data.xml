@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/profile_image"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/girl_profile" />
+
+        <TextView
+            android:layout_marginTop="25dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:layout_width="250dp"
+            android:textSize="22sp"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_person_black_24dp"
+            android:id="@+id/profile_name" />
+
+        <TextView
+            android:id="@+id/profile_email"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:layout_width="250dp"
+            android:textSize="22sp"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_email_black_24dp" />
+
+        <TextView
+            android:id="@+id/profile_phone"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:layout_width="250dp"
+            android:textSize="18sp"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/ic_phone_android_black_24dp" />
+
+        <TextView
+            android:id="@+id/profile_gender"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"
+            android:layout_marginStart="25dp"
+            android:layout_marginEnd="25dp"
+            android:textSize="18sp"
+            android:layout_width="250dp"
+            android:layout_height="wrap_content"
+            android:drawableStart="@drawable/gender_icon" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

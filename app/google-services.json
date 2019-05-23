@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "415973661174",
+    "firebase_url": "https://wetalk-a407d.firebaseio.com",
+    "project_id": "wetalk-a407d",
+    "storage_bucket": "wetalk-a407d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415973661174:android:91e6d35691f8dd19",
+        "android_client_info": {
+          "package_name": "com.adilson.wetalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415973661174-nhq1jb55hfckchk8jbma28ankahdc64l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adilson.wetalk",
+            "certificate_hash": "d642dd1279a7f947713bf4d75c831df27a070616"
+          }
+        },
+        {
+          "client_id": "415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGGW98XPUPZvnR5PLVGe5HQSfkiPpyc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415973661174:android:539060193bb00155",
+        "android_client_info": {
+          "package_name": "com.example.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415973661174-siuih8rco0sk60i2f1kogsld26hl1npd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.connect",
+            "certificate_hash": "d642dd1279a7f947713bf4d75c831df27a070616"
+          }
+        },
+        {
+          "client_id": "415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGGW98XPUPZvnR5PLVGe5HQSfkiPpyc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415973661174:android:79c0f31c018d1f78",
+        "android_client_info": {
+          "package_name": "com.jeyme.khanela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415973661174-notocgsbvi7n1v53nv1opvl1c6t199p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jeyme.khanela",
+            "certificate_hash": "d642dd1279a7f947713bf4d75c831df27a070616"
+          }
+        },
+        {
+          "client_id": "415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEGGW98XPUPZvnR5PLVGe5HQSfkiPpyc0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

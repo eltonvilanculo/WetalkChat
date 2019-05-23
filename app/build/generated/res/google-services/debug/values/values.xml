@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">415973661174-ktvjdt9pucm2mmv0k6l0i0r65gggtfav.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://wetalk-a407d.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">415973661174</string>
+    <string name="google_api_key" translatable="false">AIzaSyBEGGW98XPUPZvnR5PLVGe5HQSfkiPpyc0</string>
+    <string name="google_app_id" translatable="false">1:415973661174:android:91e6d35691f8dd19</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBEGGW98XPUPZvnR5PLVGe5HQSfkiPpyc0</string>
+    <string name="google_storage_bucket" translatable="false">wetalk-a407d.appspot.com</string>
+    <string name="project_id" translatable="false">wetalk-a407d</string>
+</resources>
